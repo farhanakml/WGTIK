@@ -4577,7 +4577,7 @@ input[type=button].btn-block {
   margin-left: -1px;
   line-height: 1.25;
   color: #C8DBBE;
-  background-color: #3C6255;
+  background-color: #EAE7B1;
   border: 1px solid #dee2e6;
 }
 .page-link:hover {
@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #3C6255 !important;
+  background-color: #A6BB8D !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
